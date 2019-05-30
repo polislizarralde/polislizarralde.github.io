@@ -1,0 +1,20 @@
+title: Diana Paola Lizarralde-Bejarano
+url: "https://polislizarralde.github.io"
+# baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://polislizarralde.github.io"
+footer_text: "Paola Lizarralde-Bejarano's website"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# nav:
+#  - name: "Contact"
+#    link: "contact"
