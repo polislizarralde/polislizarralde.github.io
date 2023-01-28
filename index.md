@@ -4,7 +4,7 @@ layout: default
 
 Welcome! this is my personal website.
 
-<img class="profile-picture" src="polis1.jpg">
+<img class="profile-picture" src="foto.jpg">
 
 ## Contact information
 
@@ -17,12 +17,10 @@ Welcome! this is my personal website.
 
 ## About me
 
-I am a [Colombian](https://www.colombia.co/en/) mathematician interested in
-mathematical modeling, data analysis, pure math,
-algorithms, parameter estimation, mathematical logic, quantitative
-methods, among other very interesting things. I am a cat lover and if
-you also like cats, you may want to follow mine
-[@agdatomasa](https://www.instagram.com/agdatomasa/?hl=en).
+Welcome to my academic website! I am a [Colombian](https://www.colombia.co/en/ mathematician with a broad range of interests, including mathematical modeling, data analysis, pure mathematics, algorithms, parameter estimation, mathematical logic, and quantitative methods. I am passionate about exploring the connections between these various fields and finding new ways to apply mathematical techniques to solve real-world problems. I am currently working as a postdoc in the Centre for Ecological and Evolutionary Synthesis (CEES) at the University of Oslo (UiO) on the Nordemics project, a historical epidemiology project which examines the impact of pathogens and pandemics on the development of Nordic societies.
+
+In my free time, I am also an avid cat lover, so be sure to check out my cat's Instagram account[@agdatomasa](https://www.instagram.com/agdatomasa/?hl=en).
+
 
 ## Research work
 
