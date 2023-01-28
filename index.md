@@ -17,7 +17,7 @@ Welcome! this is my personal website.
 
 ## About me
 
-Welcome to my academic website! I am a [Colombian](https://www.colombia.co/en/ mathematician with a broad range of interests, including mathematical modeling, data analysis, pure mathematics, algorithms, parameter estimation, mathematical logic, and quantitative methods. I am passionate about exploring the connections between these various fields and finding new ways to apply mathematical techniques to solve real-world problems. I am currently working as a postdoc in the Centre for Ecological and Evolutionary Synthesis (CEES) at the University of Oslo (UiO) on the Nordemics project, a historical epidemiology project which examines the impact of pathogens and pandemics on the development of Nordic societies.
+Welcome to my academic website! I am a [Colombian](https://www.colombia.co/en/) mathematician with a broad range of interests, including mathematical modeling, data analysis, pure mathematics, algorithms, parameter estimation, mathematical logic, and quantitative methods. I am passionate about exploring the connections between these various fields and finding new ways to apply mathematical techniques to solve real-world problems. I am currently working as a postdoc in the Centre for Ecological and Evolutionary Synthesis (CEES) at the University of Oslo (UiO) on the *NORDEMICS* project, a historical epidemiology project which examines the impact of pathogens and pandemics on the development of Nordic societies.
 
 In my free time, I am also an avid cat lover, so be sure to check out my cat's Instagram account[@agdatomasa](https://www.instagram.com/agdatomasa/?hl=en).
 
@@ -81,7 +81,6 @@ master program of Applied mathematics at Universidad EAFIT.
   the vectorial capacity using as example Aedes aegypti case in dengue
   transmission*. Heliyon 5.10, e02577. [DOI:
   10.1016/j.heliyon.2019.e02577.](https://www.sciencedirect.com/science/article/pii/S2405844019362371)
-
 - **Lizarralde-Bejarano, Diana Paola**, Sair Arboleda-Sánchez, and
   María Eugenia Puerta-Yepes (Mar. 2017). *Understanding epidemics from
   mathematical models: Details of the 2010 dengue epidemic in Bello
@@ -124,7 +123,6 @@ master program of Applied mathematics at Universidad EAFIT.
 
 ## Teaching experience
 
-<img class="profile-picture" src="polis4.JPG">
 
 - Faculty of Engineering, [Universidad Distrital Francisco José de
   Caldas](https://www.udistrital.edu.co/inicio). Teaching Award in
