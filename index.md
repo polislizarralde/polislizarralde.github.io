@@ -60,34 +60,46 @@ master program of Applied mathematics at Universidad EAFIT.
 
 ## Publications
 
-- 🚀 **Lizarralde-Bejarano, Diana Paola**, Hayriye Gulbudak, Ralph Baker Kearfott,
+- 🚀 Alexandra Catano-Lopez, Daniel Rojas-Díaz, **Diana Paola
+  Lizarralde-Bejarano**, and  María Eugenia Puerta-Yepes (Feb. 2023).
+  *A discrete model for the evaluation of public policies: The case of Colombia during the COVID-19 pandemic*. 
+  PLoS ONE 18(2): e0275546. [DOI: 10.1371/journal.pone.0275546.]
+  (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275546)
+
+- 🚀 Alexandra Catano-Lopez, Daniel Rojas-Díaz, **Diana Paola
+  Lizarralde-Bejarano**, and  María Eugenia Puerta-Yepes (Sep. 2022).
+  *Discrete models in epidemiology: New contagion probability functions based on real data behavior*. 
+  Bulletin of Mathematical Biology 84, 127. [DOI: 10.1007/s11538-022-01076-6.]
+  (https://link.springer.com/article/10.1007/s11538-022-01076-6)
+
+- 🚀 **Diana Paola Lizarralde-Bejarano**, Hayriye Gulbudak, Ralph Baker Kearfott,
   and María Eugenia Puerta-Yepes (Jul. 2022).
   *Modeling the uncertainty in epidemiological models through interval analysis
   considering actual data from two municipalities in Colombia affected by dengue*. 
-  Applied Mathematical Modelling, 111, pp. 739-752.
-  ([https://www.sciencedirect.com/science/article/pii/S0307904X22003316](https://doi.org/10.1016/j.apm.2022.07.006))
+  Applied Mathematical Modelling, 111, pp. 739-752. [DOI: 10.1016/j.apm.2022.07.006.]
+  (https://www.sciencedirect.com/science/article/pii/S0307904X22003316)
   
-
-- **Lizarralde-Bejarano, Diana Paola**, Daniel Rojas-Díaz, Sair
+- **Diana Paola Lizarralde-Bejarano**, Daniel Rojas-Díaz, Sair
   Arboleda-Sánchez, and María Eugenia Puerta-Yepes (Mar. 2020).
   *Sensitivity, uncertainty and identifiability analyses to define a
   dengue transmission model with real data of an endemic municipality
-  of Colombia*. PLOS ONE 15.3. Ed. by David A. Larsen, e0229668. [DOI:
+  of Colombia*. PLoS ONE 15(3): e0229668. [DOI:
   10.1371/journal.pone.0229668.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229668)
 
-- Catano-Lopez, Alexandra, Daniel Rojas-Díaz, Henry Laniado, Sair
+- Alexandra Catano-Lopez, Daniel Rojas-Díaz, Henry Laniado, Sair
   Arboleda-Sánchez, María Eugenia Puerta-Yepes, and **Diana Paola
   Lizarralde-Bejarano** (Oct. 2019). *An alternative model to explain
   the vectorial capacity using as example Aedes aegypti case in dengue
   transmission*. Heliyon 5.10, e02577. [DOI:
   10.1016/j.heliyon.2019.e02577.](https://www.sciencedirect.com/science/article/pii/S2405844019362371)
-- **Lizarralde-Bejarano, Diana Paola**, Sair Arboleda-Sánchez, and
+
+- **Diana Paola Lizarralde-Bejarano**, Sair Arboleda-Sánchez, and
   María Eugenia Puerta-Yepes (Mar. 2017). *Understanding epidemics from
   mathematical models: Details of the 2010 dengue epidemic in Bello
   (Antioquia, Colombia)*. Applied Mathematical Modelling 43, pp.
   566–578. [DOI: 10.1016/j.apm.2016.11.022.](https://www.sciencedirect.com/science/article/pii/S0307904X16306278?via%3Dihub)
 
-- Parra-Amaya, Mayra, María Puerta-Yepes, **Diana Paola
+- Mayra Parra-Amaya, María Eugenia Puerta-Yepes, **Diana Paola
   Lizarralde-Bejarano**, and Sair Arboleda-Sánchez (Mar. 2016). *Early
   Detection for Dengue Using Local Indicator of Spatial Association
   (LISA) Analysis.* Diseases 4.4, p. 16. [DOI:
