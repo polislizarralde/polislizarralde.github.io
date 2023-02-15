@@ -64,20 +64,20 @@ master program of Applied mathematics at Universidad EAFIT.
   Lizarralde-Bejarano**, and  María Eugenia Puerta-Yepes (Feb. 2023).
   *A discrete model for the evaluation of public policies: The case of Colombia during the COVID-19 pandemic*. 
   PLoS ONE 18(2): e0275546.
-  ([https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275546](DOI: 10.1371/journal.pone.0275546.))
+  [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275546]
 
 - 🚀 Alexandra Catano-Lopez, Daniel Rojas-Díaz, **Diana Paola
   Lizarralde-Bejarano**, and  María Eugenia Puerta-Yepes (Sep. 2022).
   *Discrete models in epidemiology: New contagion probability functions based on real data behavior*. 
   Bulletin of Mathematical Biology 84, 127. 
-  ([https://link.springer.com/article/10.1007/s11538-022-01076-6](DOI: 10.1007/s11538-022-01076-6.))
+  [https://link.springer.com/article/10.1007/s11538-022-01076-6]
 
 - 🚀 **Diana Paola Lizarralde-Bejarano**, Hayriye Gulbudak, Ralph Baker Kearfott,
   and María Eugenia Puerta-Yepes (Jul. 2022).
   *Modeling the uncertainty in epidemiological models through interval analysis
   considering actual data from two municipalities in Colombia affected by dengue*. 
   Applied Mathematical Modelling, 111, pp. 739-752. 
-  ([https://www.sciencedirect.com/science/article/pii/S0307904X22003316](https://doi.org/10.1016/j.apm.2022.07.006))
+  [https://www.sciencedirect.com/science/article/pii/S0307904X22003316](https://doi.org/10.1016/j.apm.2022.07.006)
   
   
 - **Diana Paola Lizarralde-Bejarano**, Daniel Rojas-Díaz, Sair
