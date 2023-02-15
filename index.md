@@ -76,8 +76,9 @@ master program of Applied mathematics at Universidad EAFIT.
   and María Eugenia Puerta-Yepes (Jul. 2022).
   *Modeling the uncertainty in epidemiological models through interval analysis
   considering actual data from two municipalities in Colombia affected by dengue*. 
-  Applied Mathematical Modelling, 111, pp. 739-752. [DOI: 10.1016/j.apm.2022.07.006.]
-  (https://www.sciencedirect.com/science/article/pii/S0307904X22003316)
+  Applied Mathematical Modelling, 111, pp. 739-752. 
+  ([https://www.sciencedirect.com/science/article/pii/S0307904X22003316](https://doi.org/10.1016/j.apm.2022.07.006))
+  
   
 - **Diana Paola Lizarralde-Bejarano**, Daniel Rojas-Díaz, Sair
   Arboleda-Sánchez, and María Eugenia Puerta-Yepes (Mar. 2020).
